@@ -7,4 +7,4 @@ class  GenreSerializer(serializers.ModelSerializer):
         model = Genre
         fields = '__all__'
 
-     
+
